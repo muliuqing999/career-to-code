@@ -1,0 +1,4 @@
+interface:
+  display_name: "从就业方向到编程入门"
+  short_description: "通过逐步对话明确就业方向，制定可执行学习路线，以精简小任务持续教学"
+  default_prompt: "使用 $career-to-code，先了解我的基础、时间和就业目标，再一步一步帮我确定方向并教我。"
